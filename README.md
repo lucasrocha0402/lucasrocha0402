@@ -8,7 +8,6 @@
 - 🤔 Procuro ajuda em o que posso melhorar...
 - 💬 Me pergunte sobre meus projetos...
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
           
 
