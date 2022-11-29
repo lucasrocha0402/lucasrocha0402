@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Lucas Rocha and my nickname is luquinhas!
 
 <!--
 **lucasrocha0402/lucasrocha0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
