@@ -2,13 +2,14 @@
 ## Meu nome é Lucas Rocha !
 
 
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-
 - 🔭 Atualmente estou buscando ter minha primeira experiência profissional como um desenvolvedor full stack...
 - 🌱 No momento sigo estudando e me aperfeiçoando em: Java,javaScript,typescript,HTML,CSS, sql e mysql...
 - 👯 tenho interrese em desenvolver aplicações web e softwares...
 - 🤔 Procuro ajuda em o que posso melhorar...
 - 💬 Me pergunte sobre meus projetos...
+
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+          
 
