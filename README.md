@@ -1,5 +1,5 @@
 # 👋 Olá! Bem vindo ao meu Github profile.
-## Meu nome é Lucas Rocha !
+## Meu nome é Lucas Sampaio !
 
 
 - 🔭 Atualmente tenho experiencia em Analise de Dados e Quality Assure...
