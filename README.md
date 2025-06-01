@@ -2,12 +2,21 @@
 ## Meu nome é Lucas Sampaio !
 
 
-- 🔭 Atualmente tenho experiencia em Analise de Dados e Quality Assure...
-- 🌱 No momento sigo estudando e me aperfeiçoando em: Java, javaScript, C#, sql e automações...
-- 👯 tenho interrese em desenvolver aplicações web, softwares, automações e realizar testes...
-- 🤔 Procuro ajuda em o que posso melhorar...
-- 💬 Me pergunte sobre meus projetos...
+🔭 Atualmente atuo como Desenvolvedor com foco em C#, .NET/.NET Core, Xamarin e Flutter, com experiência em desenvolvimento web e mobile.
 
+🌱 Sou estudante de Sistemas de Informação e sigo me aperfeiçoando em Java, JavaScript, C#, SQL e automações.
+
+👨‍💻 Tenho base sólida em POO, Spring Boot, APIs REST, Swagger e bancos relacionais como MySQL e SQL Server.
+
+🧪 Experiência prévia em QA, com foco em testes automatizados usando Selenium, Appium, Robot Framework e Sikuli.
+
+✅ Familiaridade com TDD, JUnit, Mockito, CI/CD, Git/GitHub e metodologias ágeis.
+
+🚀 Tenho interesse em desenvolver aplicações web, softwares, automações e contribuir com testes de qualidade.
+
+🤝 Aberto a feedbacks sobre como posso evoluir ainda mais na área de tecnologia.
+
+💬 Me pergunte sobre meus projetos! Será um prazer compartilhar.
 ## Estou me aperfeiçoando em
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="60" height="60"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"  width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>
