@@ -1,114 +1,21 @@
-<!-- DARK MINIMAL PREMIUM PROFILE -->
-
-<h1 align="center" style="font-weight:700;">🌑 Lucas Sampaio</h1>
-<h3 align="center" style="font-weight:500;">Desenvolvedor Full Stack & Mobile</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Código-Em%20Evolução-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stack-Full--Stack--Mobile-black?style=for-the-badge"/>
-</p>
-
----
-
-## 🖤 Sobre mim
-
-Sou desenvolvedor Full Stack & Mobile, criando soluções completas com foco em **qualidade, arquitetura limpa, automação** e **experiências robustas**.
-
-Atuo com:
-
-- **Backend:** C#, .NET, Node.js, Python  
-- **Frontend:** React  
-- **Mobile:** Flutter & React Native  
-- **Infra:** Docker, Docker Swarm, Traefik  
-- **Banco de Dados:** SQL Server, MySQL, Supabase  
-- **QA:** Selenium, Appium, Robot Framework, Sikuli  
-- **Integrações:** N8n, Typebot, Appsmith, RabbitMQ  
-
-Busco entregar código limpo, escalável e com impacto.
-
----
-
-# ⚙️ Stack Tecnológica
-
-### 🖥️ Backend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-</p>
-
-### 📱 Mobile
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
-</p>
-
-### 🗄️ Banco de Dados
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
-  <img src="https://img.icons8.com/?size=512&id=H2I1y3qYxRaN&format=png" width="48" title="Supabase"/>
-</p>
-
-### ⚡ DevOps & Automação
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="50" title="Traefik"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-</p>
-
-### 🧪 Qualidade (QA)
-<p>
-  <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" width="48"/>
-  <img src="https://www.robotframework.org/img/RF.svg" width="48"/>
-  <img src="https://seeklogo.com/images/S/sikuli-logo-4E1A04FE90-seeklogo.com.png" width="48"/>
-</p>
-
----
-
-# 🖤 Projetos em Destaque
-
-### **LifePlus**  
-Aplicativo Flutter com backend Supabase, usando RLS, triggers, cálculos personalizados, logs e arquitetura limpa.
-
-### **DashInvest**  
-Aplicação financeira modular com Clean Architecture e múltiplas camadas bem definidas.
-
-### **Sistema de Controle Financeiro**  
-Gestão completa de receitas/despesas com autenticação Firebase/Supabase e gráficos dinâmicos.
-
-> *Se quiser, posso transformar esses projetos em cards premium no estilo “dark glass”.*
-
----
-
-# 📊 Estatísticas
-
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,100:1a1a1a&text=Lucas%20Sampaio&fontColor=B66DFF&fontSize=55&fontAlignY=38&desc=Full%20Stack%20•%20Mobile%20•%20QA%20Automation&descAlignY=60&animation=fadeIn" /></p>
+<br>
+<p align="center"><strong style="font-size:28px;">✨ Desenvolvedor Premium • Identidade Exclusiva ✨</strong></p>
+<p align="center"> Sou um desenvolvedor focado em criar soluções modernas, rápidas e elegantes — Mobile, Web, APIs e Arquiteturas limpas.<br> Experiência sólida com C#, .NET, Flutter, React, Node.js, Supabase e QA Automation.<br> Busco entregar software com visual impecável, arquitetura forte e qualidade profissional. </p>
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
-
----
-
-# 📬 Contato
-
-<p>
-  <a href="mailto:lukasrocha0402@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">✨ Minimalismo. Precisão. Performance. ✨</h3>
+🌑 <strong style="font-size:26px;">Tech Stack — Premium Black Edition</strong>
+💻 Linguagens & Frameworks
+<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,react,reactnative,nodejs,python&theme=dark" />
+🗄️ Banco de Dados & Backend
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&theme=dark" />
+🧪 QA & Testes Automatizados
+<img src="https://skillicons.dev/icons?i=selenium,pytest&theme=dark" />
+⚙️ DevOps & Ferramentas
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" /> </div>
+<p align="center"><strong style="font-size:26px;">📂 Projetos em Destaque — Cards Premium Glass</strong></p>
+<style> .card { background: rgba(20, 20, 20, 0.7); border-radius: 18px; padding: 18px; border: 1px solid rgba(180, 90, 255, 0.3); } </style> <div align="center"> <table> <tr> <td width="420"> <div class="card"> <h3 align="center">📱 LifePlus</h3> <p align="center">Flutter + Supabase • Saúde • Dashboards • IA</p> <a href="https://github.com/lucasrocha0402/life_pluss"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=life_pluss&theme=highcontrast&hide_border=true"/> </a> </div> </td> <td width="420"> <div class="card"> <h3 align="center">🌐 DevHub Frontend</h3> <p align="center">React • UI Moderna • Autenticação • Feed</p> <a href="https://github.com/lucasrocha0402/devhubfront"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubfront&theme=highcontrast&hide_border=true"/> </a> </div> </td> </tr> <tr> <td width="420"> <div class="card"> <h3 align="center">⚙️ DevHub Backend</h3> <p align="center">Node.js • JWT • Roles • Docker</p> <a href="https://github.com/lucasrocha0402/devhubback"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubback&theme=highcontrast&hide_border=true"/> </a> </div> </td> <td width="420"> <div class="card"> <h3 align="center">📊 DashInvest</h3> <p align="center">Flutter • Finanças • Gráficos • Relatórios</p> <a href="#"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=dashinvent&theme=highcontrast&hide_border=true"/> </a> </div> </td> </tr> </table> </div>
+<p align="center"><strong style="font-size:26px;">📞 Contatos</strong></p>
+<div align="center"> <a href="mailto:lukasrocha0402@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=B66DFF"/></a> <a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF"/></a> </div>
+<p align="center">📊 GitHub Stats — Neon Black</p>
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true"/> </p>
+<p align="center" style="font-size:12px; color:#555;">Assinatura exclusiva • Criada especialmente para você • LS.</p>
