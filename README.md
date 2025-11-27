@@ -19,17 +19,21 @@
 
 <p align="center">
 
-  <!-- skillicons ok -->
+  <!-- skillicons -->
   <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart&theme=light" />
 
-  <!-- Ícones corrigidos com fundo branco -->
-  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
+  <!-- Ícones com fundo branco -->
+  <img height="48" width="48" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
 
-  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
+  <img height="48" width="48" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
 
-  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
-
-  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
+  <img height="48" width="48" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
 </p>
 
 <p align="center"><strong>Banco de Dados & Backend</strong></p>
@@ -41,9 +45,16 @@
 <p align="center"><strong>QA & Testes Automatizados</strong></p>
 
 <p align="center">
-  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" style="background:white;border-radius:10px;padding:6px;" />
 
-  <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
+  <img height="48" width="48"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
+       style="background:white;border-radius:10px;padding:6px;" />
+
+  <!-- Ícone corrigido do Pytest -->
+  <img height="48" width="48"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg"
+       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
+
 </p>
 
 <p align="center"><strong>DevOps & Ferramentas</strong></p>
@@ -58,10 +69,10 @@
 
 <h2 align="center">📂 Projetos em Destaque — Cards Premium</h2>
 
-<table align="center">
+<table align="center" style="width:100%; max-width:900px;">
   <tr>
 
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:20px;">
       <h3>📱 LifePlus</h3>
       <p>Flutter • Supabase • Saúde • Dashboards</p>
       <a href="https://github.com/lucasrocha0402/life_pluss">
@@ -69,7 +80,7 @@
       </a>
     </td>
 
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:20px;">
       <h3>🌐 DevHub Frontend</h3>
       <p>React • UI Moderna • Autenticação</p>
       <a href="https://github.com/lucasrocha0402/devhubfront">
@@ -81,7 +92,7 @@
 
   <tr>
 
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:20px;">
       <h3>⚙️ DevHub Backend</h3>
       <p>Node.js • JWT • Roles • Docker</p>
       <a href="https://github.com/lucasrocha0402/devhubback">
@@ -89,7 +100,7 @@
       </a>
     </td>
 
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="padding:20px;">
       <h3>📊 DashInvest (WIP)</h3>
       <p>Flutter • Finanças • Gráficos</p>
       <a href="https://github.com/lucasrocha0402">
@@ -121,9 +132,11 @@
 <h2 align="center">📊 GitHub Stats — Neon Black</h2>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF"/>
+  <img height="170em" 
+       src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF"/>
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true"/>
+  <img height="170em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true"/>
 </p>
 
 ---
