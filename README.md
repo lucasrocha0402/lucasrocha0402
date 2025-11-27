@@ -1,38 +1,55 @@
-# 👋 Olá! Bem vindo ao meu Github profile.
-## Meu nome é Lucas Sampaio !
+Lucas Sampaio — Desenvolvedor Full Stack & Mobile
 
+Sou desenvolvedor full stack e mobile, atuando com C#, .NET, Flutter, React, React Native, Node.js e Python.
+Tenho experiência construindo aplicações completas — backend, frontend, mobile, automações, integrações e infraestrutura leve com Docker.
 
-🔭 Atualmente atuo como Desenvolvedor com foco em C#, .NET/.NET Core, Xamarin e Flutter, com experiência em desenvolvimento web e mobile.
+Trabalho com foco em boas práticas, arquitetura limpa, qualidade de código, testes e automações.
+Atualmente desenvolvo apps reais com Supabase, Firebase, SQL Server, MySQL, Docker Swarm, Traefik, além de integrações com N8n, Typebot, RabbitMQ e Appsmith.
 
-🌱 Sou estudante de Sistemas de Informação e sigo me aperfeiçoando em Java, JavaScript, C#, SQL e automações.
+Também tenho background sólido em QA, incluindo testes automatizados e validação funcional.
 
-👨‍💻 Tenho base sólida em POO, Spring Boot, APIs REST, Swagger e bancos relacionais como MySQL e SQL Server.
+Tecnologias que uso no dia a dia
 
-🧪 Experiência prévia em QA, com foco em testes automatizados usando Selenium, Appium, Robot Framework e Sikuli.
+Backend:
+✔️ C# / .NET / .NET Core
+✔️ Node.js
+✔️ Python
+✔️ SQL Server, MySQL, Supabase
+✔️ APIs REST, Clean Architecture, Entity Framework
 
-✅ Familiaridade com TDD, JUnit, Mockito, CI/CD, Git/GitHub e metodologias ágeis.
+Frontend & Mobile:
+✔️ React
+✔️ React Native
+✔️ Flutter
+✔️ UI/UX básico, integração com APIs, layouts responsivos
 
-🚀 Tenho interesse em desenvolver aplicações web, softwares, automações e contribuir com testes de qualidade.
+DevOps & Automação:
+✔️ Docker, Docker Swarm
+✔️ Traefik
+✔️ N8n, Typebot, Appsmith
+✔️ Git/GitHub, CI/CD
 
-🤝 Aberto a feedbacks sobre como posso evoluir ainda mais na área de tecnologia.
+QA:
+✔️ Selenium, Appium, Robot Framework, Sikuli
+✔️ Testes funcionais, integração e automação
 
-💬 Me pergunte sobre meus projetos! Será um prazer compartilhar.
-## Estou me aperfeiçoando em
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60" style="margin-right: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" style="margin-right: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin-right: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60" style="margin-right: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height="60" style="margin-right: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" style="margin-right: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="60" style="margin-right: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" style="margin-right: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60" style="margin-right: 10px;"/>
+Projetos que tenho desenvolvido
 
+LifePlus: app Flutter com backend Supabase, cálculos personalizados, RLS, triggers e funções PL/pgSQL.
 
-          
-          
-## Contatos:
+DashInvest: app financeiro com Clean Architecture e estrutura modular.
 
-<div>
-<a href = "mailto:lukasrocha0402@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+Sistema de controle financeiro pessoal: receitas/despesas, gráficos, autenticação Firebase/Supabase.
 
-<div>
-<a href="https://github.com/lucasrocha0402">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-          
+Soluções internas com Node.js, automações e dashboards.
+
+(Se quiser, adiciono cards bonitos dos projetos também.)
+
+Contato
+
+📧 E-mail: lukasrocha0402@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/lucas-rocha-805a7422a/
+
+GitHub Stats
+<div> <a href="https://github.com/lucasrocha0402"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&langs_count=10&theme=radical"/> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> </div>
