@@ -1,55 +1,63 @@
-Lucas Sampaio — Desenvolvedor Full Stack & Mobile
+🌟 Lucas Sampaio — Desenvolvedor Full Stack & Mobile
+<div align="center">
+C# | .NET | Flutter | React | React Native | Node.js | Python
 
-Sou desenvolvedor full stack e mobile, atuando com C#, .NET, Flutter, React, React Native, Node.js e Python.
-Tenho experiência construindo aplicações completas — backend, frontend, mobile, automações, integrações e infraestrutura leve com Docker.
+Construo aplicações completas — backend, frontend, mobile, automações, integrações e DevOps — sempre seguindo boas práticas, arquitetura limpa e foco em performance.
 
-Trabalho com foco em boas práticas, arquitetura limpa, qualidade de código, testes e automações.
-Atualmente desenvolvo apps reais com Supabase, Firebase, SQL Server, MySQL, Docker Swarm, Traefik, além de integrações com N8n, Typebot, RabbitMQ e Appsmith.
+</div>
+🚀 Sobre mim
 
-Também tenho background sólido em QA, incluindo testes automatizados e validação funcional.
+Sou desenvolvedor com experiência em:
 
-Tecnologias que uso no dia a dia
+Backend: C#, .NET/.NET Core, Node.js, Python
 
-Backend:
-✔️ C# / .NET / .NET Core
-✔️ Node.js
-✔️ Python
-✔️ SQL Server, MySQL, Supabase
-✔️ APIs REST, Clean Architecture, Entity Framework
+Mobile: Flutter e React Native
 
-Frontend & Mobile:
-✔️ React
-✔️ React Native
-✔️ Flutter
-✔️ UI/UX básico, integração com APIs, layouts responsivos
+Frontend: React
 
-DevOps & Automação:
-✔️ Docker, Docker Swarm
-✔️ Traefik
-✔️ N8n, Typebot, Appsmith
-✔️ Git/GitHub, CI/CD
+Automação: N8n, Typebot, Appsmith
 
-QA:
-✔️ Selenium, Appium, Robot Framework, Sikuli
-✔️ Testes funcionais, integração e automação
+Infra: Docker, Docker Swarm, Traefik
 
-Projetos que tenho desenvolvido
+Banco de dados: Supabase, SQL Server, MySQL
 
-LifePlus: app Flutter com backend Supabase, cálculos personalizados, RLS, triggers e funções PL/pgSQL.
+QA: Selenium, Appium, Robot Framework, Sikuli
 
-DashInvest: app financeiro com Clean Architecture e estrutura modular.
+Especialista em criar soluções completas, desde APIs e integrações até apps mobile com arquitetura limpa.
 
-Sistema de controle financeiro pessoal: receitas/despesas, gráficos, autenticação Firebase/Supabase.
+💻 Tecnologias que utilizo
+🔥 Backend
+<div style="display: flex; gap: 20px; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/> </div>
+📱 Mobile
+<div style="display: flex; gap: 20px; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> </div>
+🌐 Frontend
+<div style="display: flex; gap: 20px; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> </div>
+🗄️ Banco de Dados
+<div style="display: flex; gap: 20px; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60"/> <img src="https://img.icons8.com/?size=512&id=H2I1y3qYxRaN&format=png" width="60"/> </div>
+⚙️ DevOps & Automação
+<div style="display: flex; gap: 20px; align-items: center;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> </div>
+🧪 QA
+<div style="display: flex; gap: 20px; align-items: center;"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/selenium_logo_icon_168831.png" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" width="60"/> <img src="https://avatars.githubusercontent.com/u/371182?s=200&v=4" width="60"/> </div>
+🛠️ Projetos em Destaque
+📱 LifePlus
 
-Soluções internas com Node.js, automações e dashboards.
+App Flutter com Supabase, cálculos avançados, triggers, RLS, logs e arquitetura limpa.
 
-(Se quiser, adiciono cards bonitos dos projetos também.)
+💰 DashInvest
 
-Contato
+Aplicativo financeiro com gráficos, módulos e estrutura totalmente escalável.
 
-📧 E-mail: lukasrocha0402@gmail.com
+💸 Sistema Financeiro Pessoal
+
+Receitas, despesas, gráficos, autenticação Firebase/Supabase e UI moderna.
+
+(Se quiser, posso criar cards visuais para cada projeto.)
+
+📞 Contato
+
+📩 Email: lukasrocha0402@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/lucas-rocha-805a7422a/
 
-GitHub Stats
-<div> <a href="https://github.com/lucasrocha0402"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&langs_count=10&theme=radical"/> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> </div>
+📊 GitHub Stats
+<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=tokyonight"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=tokyonight&count_private=true"/> </div>
