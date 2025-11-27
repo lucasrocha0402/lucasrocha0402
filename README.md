@@ -2,14 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,100:1a1a1a&text=Lucas%20Sampaio&fontColor=B66DFF&fontSize=55&fontAlignY=38&desc=Full%20Stack%20•%20Mobile%20•%20QA%20Automation&descAlignY=60&animation=fadeIn" />
 </p>
 
-<br>
-
 <h1 align="center">✨ Desenvolvedor Premium • Identidade Exclusiva ✨</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack & Mobile criando soluções modernas, rápidas e elegantes. <br>
-  Experiência com C#, .NET, Flutter, React, Node.js, Python, Supabase e QA Automation. <br>
-  Foco em Clean Architecture, alta performance e qualidade profissional.
+  Full Stack & Mobile Developer criando soluções modernas, rápidas e escaláveis.<br>
+  Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automação de testes.
 </p>
 
 ---
@@ -20,22 +17,22 @@
 
 <p align="center"><strong>Linguagens & Frameworks</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,react,reactnative,nodejs,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,react,reactnative,nodejs,python&theme=light" />
 </p>
 
 <p align="center"><strong>Banco de Dados & Backend</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&theme=light" />
 </p>
 
 <p align="center"><strong>QA & Testes Automatizados</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,pytest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=selenium,pytest&theme=light" />
 </p>
 
 <p align="center"><strong>DevOps & Ferramentas</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" />
 </p>
 
 ---
@@ -44,43 +41,41 @@
 
 <h2 align="center">📂 Projetos em Destaque — Cards Premium</h2>
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>📱 LifePlus</h3>
-        <p>Flutter + Supabase • Saúde • Dashboards</p>
-        <a href="https://github.com/lucasrocha0402/life_pluss">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=life_pluss&theme=highcontrast&hide_border=true"/>
-        </a>
-      </td>
-      <td align="center">
-        <h3>🌐 DevHub Frontend</h3>
-        <p>React • UI Moderna • Autenticação</p>
-        <a href="https://github.com/lucasrocha0402/devhubfront">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubfront&theme=highcontrast&hide_border=true"/>
-        </a>
-      </td>
-    </tr>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📱 LifePlus</h3>
+      <p>Flutter • Supabase • Saúde • Dashboards</p>
+      <a href="https://github.com/lucasrocha0402/life_pluss">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=life_pluss&theme=highcontrast&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 DevHub Frontend</h3>
+      <p>React • UI Moderna • Autenticação</p>
+      <a href="https://github.com/lucasrocha0402/devhubfront">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubfront&theme=highcontrast&hide_border=true" />
+      </a>
+    </td>
+  </tr>
 
-    <tr>
-      <td align="center">
-        <h3>⚙️ DevHub Backend</h3>
-        <p>Node.js • JWT • Roles • Docker</p>
-        <a href="https://github.com/lucasrocha0402/devhubback">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubback&theme=highcontrast&hide_border=true"/>
-        </a>
-      </td>
-      <td align="center">
-        <h3>📊 DashInvest (WIP)</h3>
-        <p>Flutter • Finanças • Gráficos</p>
-        <a href="https://github.com/lucasrocha0402">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=dashinvent&theme=highcontrast&hide_border=true"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+  <tr>
+    <td align="center" width="50%">
+      <h3>⚙️ DevHub Backend</h3>
+      <p>Node.js • JWT • Roles • Docker</p>
+      <a href="https://github.com/lucasrocha0402/devhubback">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubback&theme=highcontrast&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 DashInvest (WIP)</h3>
+      <p>Flutter • Finanças • Gráficos</p>
+      <a href="https://github.com/lucasrocha0402">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=dashinvest&theme=highcontrast&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,8 +93,6 @@
 </p>
 
 ---
-
-<br>
 
 <h2 align="center">📊 GitHub Stats — Neon Black</h2>
 
