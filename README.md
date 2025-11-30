@@ -1,209 +1,117 @@
- <p align="center">
+<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,100:1a1a1a&text=Lucas%20Sampaio&fontColor=B66DFF&fontSize=55&fontAlignY=38&desc=Full%20Stack%20•%20Mobile%20•%20QA%20Automation&descAlignY=60&animation=fadeIn" />
+# 👋 Olá, sou Lucas!
 
-</p>
+### Desenvolvedor apaixonado por tecnologia e código
 
-<h1 align="center">✨ Desenvolvedor Premium • Identidade Exclusiva ✨</h1>
+[![GitHub followers](https://img.shields.io/github/followers/lucas?style=for-the-badge&logo=github&label=Followers&color=blue)](https://github.com/lucas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucas)
 
-<p align="center">
-
-  Full Stack & Mobile Developer criando soluções modernas, rápidas e escaláveis.<br>
-
-  Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automação de testes.
-
-</p>
+</div>
 
 ---
 
-<br>
+## 📊 GitHub Metrics
 
-<h2 align="center">🌑 Tech Stack — Premium Black Edition</h2>
+<div align="center">
 
-<p align="center"><strong>Linguagens & Frameworks</strong></p>
+![Metrics](https://github.com/lucas/lucas/blob/main/github-metrics.svg)
 
-<p align="center">
-
-  <!-- skillicons -->
-
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart&theme=light" />
-
-  <!-- Ícones com fundo branco -->
-
-  <img height="48" width="48" 
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
-
-  <img height="48" width="48" 
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
-
-  <img height="48" width="48" 
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
-
-</p>
-
-<p align="center"><strong>Banco de Dados & Backend</strong></p>
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&theme=light" />
-
-</p>
-
-<p align="center"><strong>QA & Testes Automatizados</strong></p>
-
-<p align="center">
-
-  <img height="48" width="48"
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;" />
-
-  <!-- Ícone corrigido do Pytest -->
-
-  <img height="48" width="48"
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
-
-</p>
-
-<p align="center"><strong>DevOps & Ferramentas</strong></p>
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" />
-
-</p>
+</div>
 
 ---
 
-<br>
+## 🛠️ Tecnologias e Ferramentas
 
-<h2 align="center">📂 Projetos em Destaque — Cards Premium</h2>
+<div align="center">
 
-<table align="center" style="width:100%; max-width:900px;">
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-  <tr>
-
-    <td align="center" width="50%" style="padding:20px;">
-
-      <h3>📱 LifePlus</h3>
-
-      <p>Flutter • Supabase • Saúde • Dashboards</p>
-
-      <a href="https://github.com/lucasrocha0402/life_pluss">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=life_pluss&theme=highcontrast&hide_border=true" />
-
-      </a>
-
-    </td>
-
-    <td align="center" width="50%" style="padding:20px;">
-
-      <h3>🌐 DevHub Frontend</h3>
-
-      <p>React • UI Moderna • Autenticação</p>
-
-      <a href="https://github.com/lucasrocha0402/devhubfront">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubfront&theme=highcontrast&hide_border=true" />
-
-      </a>
-
-    </td>
-
-  </tr>
-
-  <tr>
-
-    <td align="center" width="50%" style="padding:20px;">
-
-      <h3>⚙️ DevHub Backend</h3>
-
-      <p>Node.js • JWT • Roles • Docker</p>
-
-      <a href="https://github.com/lucasrocha0402/devhubback">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubback&theme=highcontrast&hide_border=true" />
-
-      </a>
-
-    </td>
-
-    <td align="center" width="50%" style="padding:20px;">
-
-      <h3>📊 DashInvest (WIP)</h3>
-
-      <p>Flutter • Finanças • Gráficos</p>
-
-      <a href="https://github.com/lucasrocha0402/dashinvest">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=dashinvest&theme=highcontrast&hide_border=true" />
-
-      </a>
-
-    </td>
-
-  </tr>
-
-</table>
+</div>
 
 ---
 
-<br>
+## 📈 Estatísticas do GitHub
 
-<h2 align="center">📞 Contatos</h2>
+<div align="center">
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
 
-  <a href="mailto:lukasrocha0402@gmail.com">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
-    <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=B66DFF"/>
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=lucas&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-  </a>
-
-  <a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF"/>
-
-  </a>
-
-</p>
+</div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats — Neon Black</h2>
+## 🎯 Sobre Mim
 
-<p align="center">
-
-  <img height="170em" 
-
-       src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF"/>
-
-  
-
-  <img height="170em" 
-
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true"/>
-
-</p>
+- 💻 Desenvolvedor Full Stack
+- 🚀 Sempre aprendendo novas tecnologias
+- 🎨 Apaixonado por criar soluções elegantes
+- 📚 Compartilhando conhecimento através de código
 
 ---
 
-<p align="center" style="font-size:12px; color:#444;">
+## 📝 Projetos em Destaque
 
-  Assinatura exclusiva • Criada especialmente para você • LS.
+<div align="center">
 
-</p>
+### 🏆 Principais Repositórios
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas&repo=devhub&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/lucas/devhub)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucas&repo=project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/lucas/project)
+
+</div>
+
+---
+
+## 📊 Contribuições
+
+<div align="center">
+
+![Snake animation](https://github.com/lucas/lucas/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=lucas&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4)
+
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucas.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Se você gostou do meu trabalho, considere dar uma estrela nos repositórios!
+
+**Feito com ❤️ e ☕**
+
+![Profile views](https://komarev.com/ghpvc/?username=lucas&color=blueviolet&style=flat-square)
+
+</div>
