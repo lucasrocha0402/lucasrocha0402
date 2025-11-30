@@ -1,209 +1,175 @@
- <p align="center">
+# Lucas Sampaio
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,100:1a1a1a&text=Lucas%20Sampaio&fontColor=B66DFF&fontSize=55&fontAlignY=38&desc=Full%20Stack%20•%20Mobile%20•%20QA%20Automation&descAlignY=60&animation=fadeIn" />
+## Desenvolvedor Premium - Identidade Exclusiva
 
-</p>
+Full Stack & Mobile Developer criando soluções criativas, rápidas e escaláveis.
 
-<h1 align="center">✨ Desenvolvedor Premium • Identidade Exclusiva ✨</h1>
-
-<p align="center">
-
-  Full Stack & Mobile Developer criando soluções modernas, rápidas e escaláveis.<br>
-
-  Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automação de testes.
-
-</p>
+Especialista em C#, .NET, React, Redux, Node.js, Python, Cypress e automação de testes.
 
 ---
 
-<br>
+## Contatos
 
-<h2 align="center">🌑 Tech Stack — Premium Black Edition</h2>
-
-<p align="center"><strong>Linguagens & Frameworks</strong></p>
-
-<p align="center">
-
-  <!-- skillicons -->
-
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart&theme=light" />
-
-  <!-- Ícones com fundo branco -->
-
-  <img height="48" width="48" 
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
-
-  <img height="48" width="48" 
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
-
-  <img height="48" width="48" 
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
-
-</p>
-
-<p align="center"><strong>Banco de Dados & Backend</strong></p>
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&theme=light" />
-
-</p>
-
-<p align="center"><strong>QA & Testes Automatizados</strong></p>
-
-<p align="center">
-
-  <img height="48" width="48"
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;" />
-
-  <!-- Ícone corrigido do Pytest -->
-
-  <img height="48" width="48"
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
-
-</p>
-
-<p align="center"><strong>DevOps & Ferramentas</strong></p>
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" />
-
-</p>
+- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+- Email: cticurriculo@email.com
+- Portfolio: [seu-portfolio.com](https://seu-portfolio.com)
 
 ---
 
-<br>
+## Tech Stack - Premium Black Edition
 
-<h2 align="center">📂 Projetos em Destaque — Cards Premium</h2>
+### Linguagens & Frameworks
 
-<table align="center" style="width:100%; max-width:900px;">
+- C# - Desenvolvimento .NET
+- .NET - Framework Microsoft
+- Java - Backend enterprise
+- Spring Boot - Framework Java
+- React - Frontend moderno
+- Redux - Gerenciamento de estado
+- Node.js - JavaScript runtime
+- TypeScript - JavaScript tipado
+- JavaScript - Linguagem web
+- Python - Scripting e automação
+- Dart - Linguagem Flutter
+- Flutter - Desenvolvimento mobile
 
-  <tr>
+### Bancos de Dados & Backend
 
-    <td align="center" width="50%" style="padding:20px;">
+- SQL Server - Banco relacional Microsoft
+- PostgreSQL - Banco relacional open source
+- MySQL - Banco relacional popular
+- MongoDB - Banco NoSQL
+- Redis - Cache e mensageria
+- H2 - Banco em memória
 
-      <h3>📱 LifePlus</h3>
+### QA & Testes Automatizados
 
-      <p>Flutter • Supabase • Saúde • Dashboards</p>
+- Cypress - Testes E2E modernos
+- Selenium - Automação web
+- Playwright - Testes modernos
+- JUnit - Framework de testes Java
+- Mockito - Mocks para testes
+- JaCoCo - Cobertura de código
 
-      <a href="https://github.com/lucasrocha0402/life_pluss">
+### Cloud & DevOps
 
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=life_pluss&theme=highcontrast&hide_border=true" />
+- Azure - Cloud Microsoft
+- AWS - Amazon Web Services
+- Docker - Containerização
+- Kubernetes - Orquestração
+- GitHub Actions - CI/CD
+- Jenkins - Automação CI/CD
+- Azure DevOps - DevOps Microsoft
 
-      </a>
+### Ferramentas & Outros
 
-    </td>
-
-    <td align="center" width="50%" style="padding:20px;">
-
-      <h3>🌐 DevHub Frontend</h3>
-
-      <p>React • UI Moderna • Autenticação</p>
-
-      <a href="https://github.com/lucasrocha0402/devhubfront">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubfront&theme=highcontrast&hide_border=true" />
-
-      </a>
-
-    </td>
-
-  </tr>
-
-  <tr>
-
-    <td align="center" width="50%" style="padding:20px;">
-
-      <h3>⚙️ DevHub Backend</h3>
-
-      <p>Node.js • JWT • Roles • Docker</p>
-
-      <a href="https://github.com/lucasrocha0402/devhubback">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubback&theme=highcontrast&hide_border=true" />
-
-      </a>
-
-    </td>
-
-    <td align="center" width="50%" style="padding:20px;">
-
-      <h3>📊 DashInvest (WIP)</h3>
-
-      <p>Flutter • Finanças • Gráficos</p>
-
-      <a href="https://github.com/lucasrocha0402/dashinvest">
-
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=dashinvest&theme=highcontrast&hide_border=true" />
-
-      </a>
-
-    </td>
-
-  </tr>
-
-</table>
+- Git - Controle de versão
+- GitHub - Plataforma Git
+- VS Code - Editor de código
+- Visual Studio - IDE Microsoft
+- Postman - Testes de API
+- Swagger - Documentação de API
 
 ---
 
-<br>
+## Projetos em Destaque - Cards Premium
 
-<h2 align="center">📞 Contatos</h2>
+### Desafio Técnico - API de Gerenciamento de Tarefas
 
-<p align="center">
+**Tecnologias:** Java 21, Spring Boot 3.2.5, JUnit 5, Docker
 
-  <a href="mailto:lukasrocha0402@gmail.com">
+**Descrição:** API REST completa com foco em Quality Assurance
 
-    <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=B66DFF"/>
+**Destaques:**
+- 79 bugs identificados e corrigidos
+- 92 testes automatizados (100% passando)
+- Cobertura de código maior que 85%
+- CI/CD com GitHub Actions
+- Docker e documentação Swagger
 
-  </a>
-
-  <a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/">
-
-    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF"/>
-
-  </a>
-
-</p>
+**Link:** [github.com/seu-usuario/desafio-java-junior-qa](https://github.com/seu-usuario/desafio-java-junior-qa)
 
 ---
 
-<h2 align="center">📊 GitHub Stats — Neon Black</h2>
+## GitHub Stats - Neon Black
 
-<p align="center">
+Para visualizar suas estatísticas do GitHub, acesse:
 
-  <img height="170em" 
+https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark
 
-       src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF"/>
+Substitua "seu-usuario" pelo seu username do GitHub.
 
-  
-
-  <img height="170em" 
-
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true"/>
-
-</p>
+Contribuições notáveis em desafio-java-junior-qa = 13
 
 ---
 
-<p align="center" style="font-size:12px; color:#444;">
+## Sobre Mim
 
-  Assinatura exclusiva • Criada especialmente para você • LS.
+Sou um desenvolvedor apaixonado por criar soluções inovadoras e de alta qualidade. Com experiência em desenvolvimento Full Stack, Mobile e automação de testes, busco sempre aplicar as melhores práticas e garantir a excelência técnica em cada projeto.
 
-</p>
+### Habilidades Principais
+
+**Backend:**
+- C#
+- .NET
+- Java
+- Spring Boot
+- Node.js
+
+**Frontend:**
+- React
+- Redux
+- TypeScript
+- JavaScript
+
+**Mobile:**
+- Flutter
+- Dart
+
+**QA:**
+- Cypress
+- Selenium
+- Playwright
+- JUnit
+
+**Cloud:**
+- Azure
+- AWS
+
+**DevOps:**
+- Docker
+- Kubernetes
+- GitHub Actions
+- Jenkins
+
+---
+
+## Estatísticas
+
+- Projetos desenvolvidos: Múltiplos
+- Contribuições: Ativas
+- Tecnologias dominadas: 20+
+- Anos de experiência: Em crescimento constante
+
+---
+
+## Como Personalizar
+
+Para personalizar este README:
+
+1. Substitua "seu-usuario" pelo seu username do GitHub
+2. Substitua "seu-perfil" pelo seu perfil do LinkedIn
+3. Substitua "seu-portfolio.com" pelo link do seu portfolio
+4. Adicione mais projetos na seção "Projetos em Destaque"
+5. Atualize as estatísticas conforme necessário
+
+---
+
+Desenvolvido com dedicação por Lucas Sampaio
+
+---
+
+## Licença
+
+Este perfil é pessoal e todos os direitos são reservados.
