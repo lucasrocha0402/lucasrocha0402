@@ -33,9 +33,9 @@ I'm passionate about technology and creating modern, scalable solutions. Here yo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasampaio10&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasampaio10&theme=highcontrast" alt="Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasampaio10&layout=compact&theme=highcontrast&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasampaio10&theme=highcontrast" alt="Most Commit Language" />
 
 </div>
 
