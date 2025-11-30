@@ -199,6 +199,7 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true"/>
 
 </p>
+
 ---
 
 <p align="center" style="font-size:12px; color:#444;">
