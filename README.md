@@ -14,7 +14,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=B66DFF)](https://github.com/lucasrocha0402)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=B66DFF)](https://github.com/lucasampaio10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF)](https://www.linkedin.com/in/lucas-rocha-805a7422a/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=B66DFF)](mailto:lukasrocha0402@gmail.com)
 
@@ -28,9 +28,9 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasampaio10&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasampaio10&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -42,13 +42,13 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/lucasrocha0402?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.limit=10&languages.recent.days=14&isocalendar=1&isocalendar.duration=full-year&achievements=1&achievements.display=compact&contributors=1&notable=1&stargazers=1" alt="GitHub Metrics" />
+<img src="https://metrics.lecoq.io/lucasampaio10?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.limit=10&languages.recent.days=14&isocalendar=1&isocalendar.duration=full-year&achievements=1&achievements.display=compact&contributors=1&notable=1&stargazers=1" alt="GitHub Metrics" />
 
 </div>
 
 <div align="center" style="margin-top: 10px;">
 
-<sub>💡 <strong>Dica:</strong> Este gráfico é gerado dinamicamente. Para usar o arquivo local gerado pelo workflow, aguarde a primeira execução do GitHub Actions.</sub>
+<sub>💡 <strong>Dica:</strong> Este gráfico é gerado dinamicamente pela API. O workflow do GitHub Actions também gera um arquivo local <code>github-metrics.svg</code> automaticamente.</sub>
 
 </div>
 
@@ -196,7 +196,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=lucasrocha0402&theme=highcontrast&hide_border=true&border_radius=10&background=0D0D0D&ring=B66DFF&fire=B66DFF&currStreakLabel=B66DFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=lucasampaio10&theme=highcontrast&hide_border=true&border_radius=10&background=0D0D0D&ring=B66DFF&fire=B66DFF&currStreakLabel=B66DFF" alt="GitHub Streak" />
 
 </div>
 
@@ -204,7 +204,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasrocha0402&theme=highcontrast" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasampaio10&theme=highcontrast" alt="Profile Details" />
 
 </div>
 
@@ -212,9 +212,9 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasrocha0402&theme=highcontrast" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasampaio10&theme=highcontrast" alt="Repos per Language" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasrocha0402&theme=highcontrast" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasampaio10&theme=highcontrast" alt="Most Commit Language" />
 
 </div>
 
@@ -222,9 +222,9 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasrocha0402&theme=highcontrast" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasampaio10&theme=highcontrast" alt="Stats" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasrocha0402&theme=highcontrast&utcOffset=-3" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasampaio10&theme=highcontrast&utcOffset=-3" alt="Productive Time" />
 
 </div>
 
@@ -236,7 +236,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github.com/lucasrocha0402/lucasrocha0402/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/lucasampaio10/lucasrocha0402/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -244,7 +244,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasrocha0402&theme=highcontrast&hide_border=true&bg_color=0d0d0d&color=B66DFF&line=B66DFF&point=ffffff&area=true&area_color=B66DFF" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasampaio10&theme=highcontrast&hide_border=true&bg_color=0d0d0d&color=B66DFF&line=B66DFF&point=ffffff&area=true&area_color=B66DFF" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -256,7 +256,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucasrocha0402&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=lucasampaio10&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -284,7 +284,7 @@ Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecn
 
 </a>
 
-<a href="https://github.com/lucasrocha0402">
+<a href="https://github.com/lucasampaio10">
 
 <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=B66DFF" alt="GitHub"/>
 
@@ -296,7 +296,7 @@ Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecn
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=lucasrocha0402&color=B66DFF&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=lucasampaio10&color=B66DFF&style=flat-square" alt="Profile views" />
 
 <br><br>
 
