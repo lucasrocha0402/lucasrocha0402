@@ -201,6 +201,7 @@
 </p>
 
 ---
+
 <p align="center" style="font-size:12px; color:#444;">
 
   Assinatura exclusiva • Criada especialmente para você • LS.
