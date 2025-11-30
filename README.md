@@ -22,7 +22,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true&custom_title=GitHub%20Metrics" alt="GitHub Metrics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true" alt="GitHub Metrics" />
 
 </div>
 
@@ -30,7 +30,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&theme=highcontrast&hide_border=true&layout=compact&langs_count=10&exclude_repo=github-readme-stats" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&theme=highcontrast&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
 
 </div>
 
