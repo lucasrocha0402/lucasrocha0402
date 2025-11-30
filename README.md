@@ -42,7 +42,13 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lucasrocha0402/lucasrocha0402/main/github-metrics.svg" alt="GitHub Metrics" />
+<img src="https://metrics.lecoq.io/lucasrocha0402?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&languages=1&languages.limit=10&languages.recent.days=14&isocalendar=1&isocalendar.duration=full-year&achievements=1&achievements.display=compact&contributors=1&notable=1&stargazers=1" alt="GitHub Metrics" />
+
+</div>
+
+<div align="center" style="margin-top: 10px;">
+
+<sub>💡 <strong>Dica:</strong> Este gráfico é gerado dinamicamente. Para usar o arquivo local gerado pelo workflow, aguarde a primeira execução do GitHub Actions.</sub>
 
 </div>
 
