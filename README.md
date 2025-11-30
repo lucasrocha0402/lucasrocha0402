@@ -1,26 +1,69 @@
+# Hello, I'm Lucas Sampaio 👋
+
+_Full Stack Developer • Mobile Developer • QA Automation_
+
+---
+
+I'm passionate about technology and creating modern, scalable solutions. Here you'll find my projects, experiments, and contributions to the tech community :)
+
+---
+
+### 🧠 About Me
+
+* 🔭 Full Stack & Mobile Developer
+* 💻 Working with C#, .NET, React, Flutter, Node.js, Python
+* 🧪 QA Automation enthusiast
+* 📱 Building mobile applications with Flutter
+* ☁️ Experience with Supabase, AWS, and cloud technologies
+* 🎯 Always learning and improving
+
+---
+
+### 💻 Tech Stack Highlights
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090909,100:1a1a1a&text=Lucas%20Sampaio&fontColor=B66DFF&fontSize=50&fontAlignY=38&desc=Full%20Stack%20•%20Mobile%20•%20QA%20Automation&descAlignY=60&animation=fadeIn" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,react,nodejs,python,typescript,supabase,aws,docker,git" height="50" />
 
 </div>
 
-<h1 align="center">Hey 👋 What's Up?</h1>
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-Full Stack & Mobile Developer criando soluções modernas, rápidas e escaláveis.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasampaio10&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasampaio10&layout=compact&theme=highcontrast&hide_border=true)
 
 </div>
 
-###
+---
+
+### 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,react,nodejs,python,typescript,supabase,aws" height="50" />
+<img src="https://streak-stats.demolab.com?user=lucasampaio10&locale=pt_BR&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&ring=B66DFF&fire=B66DFF&currStreakLabel=B66DFF" height="180" alt="streak graph" />
 
 </div>
 
-###
+---
+
+### 🟩 Latest Commit Energy
+
+_Keep building. One commit at a time._ 🟩
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasampaio10&theme=highcontrast&hide_border=true&bg_color=0d0d0d&color=B66DFF&line=B66DFF&point=ffffff&area=true&area_color=B66DFF" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+### 📞 Let's Connect
 
 <div align="center">
 
@@ -44,25 +87,7 @@ Full Stack & Mobile Developer criando soluções modernas, rápidas e escalávei
 
 </div>
 
-###
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lucasampaio10&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true" height="180" alt="github stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasampaio10&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" height="180" alt="top languages" />
-
-</div>
-
-###
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lucasampaio10&locale=pt_BR&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&ring=B66DFF&fire=B66DFF&currStreakLabel=B66DFF" height="180" alt="streak graph" />
-
-</div>
-
-###
+---
 
 <div align="center">
 
