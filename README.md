@@ -28,9 +28,9 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasampaio10&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucasampaio10&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasampaio10&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasampaio10&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
 
 </div>
 
