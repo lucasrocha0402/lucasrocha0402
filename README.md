@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">✨ Desenvolvedor Premium • Identidade Exclusiva ✨</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
 
@@ -12,33 +12,75 @@ Full Stack & Mobile Developer criando soluções modernas, rápidas e escalávei
 
 Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automação de testes.
 
-<br><br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=B66DFF)](https://github.com/lucasampaio10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF)](https://www.linkedin.com/in/lucas-rocha-805a7422a/)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=B66DFF)](mailto:lukasrocha0402@gmail.com)
-
 </div>
 
----
-
-<br>
-
-<h2 align="center">⚡ Estatísticas Rápidas</h2>
+###
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucasampaio10&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF" alt="GitHub Stats" />
+<img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasampaio10&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo" />
+
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
+
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo" />
+
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" />
+
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
+
+<img width="12" />
+
+<img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
 
 </div>
 
----
+###
 
-<br>
+<div align="center">
 
-<h2 align="center">📊 GitHub Metrics — Análise Completa</h2>
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+
+</div>
+
+###
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucasampaio10&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true" height="150" alt="github stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasampaio10&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" height="150" alt="top languages" />
+
+</div>
+
+###
 
 <div align="center">
 
@@ -46,63 +88,43 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 </div>
 
-<div align="center" style="margin-top: 10px;">
-
-<sub>💡 <strong>Dica:</strong> Este gráfico é gerado dinamicamente pela API. O workflow do GitHub Actions também gera um arquivo local <code>github-metrics.svg</code> automaticamente.</sub>
-
-</div>
-
----
-
-<br>
-
-<h2 align="center">🌑 Tech Stack — Premium Black Edition</h2>
+###
 
 <div align="center">
 
-<strong>💻 Linguagens & Frameworks</strong>
+<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
 
-<br><br>
+<img width="12" />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,react,nodejs,python,typescript,javascript&theme=light" />
+<img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo" />
 
-</div>
+<img width="12" />
 
-<br>
+<img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
 
-<div align="center">
+<img width="12" />
 
-<strong>🗄️ Banco de Dados & Backend</strong>
+<img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
 
-<br><br>
+<img width="12" />
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,mongodb&theme=light" />
+<img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
 
-</div>
+<img width="12" />
 
-<br>
+<img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
 
-<div align="center">
+<img width="12" />
 
-<strong>🧪 QA & Testes Automatizados</strong>
+<img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo" />
 
-<br><br>
+<img width="12" />
 
-<img src="https://skillicons.dev/icons?i=selenium&theme=light" />
+<img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
 
-<img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="Pytest" />
+<img width="12" />
 
-</div>
-
-<br>
-
-<div align="center">
-
-<strong>🚀 DevOps & Ferramentas</strong>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,aws&theme=light" />
+<img src="https://skillicons.dev/icons?i=selenium" height="60" alt="selenium logo" />
 
 </div>
 
@@ -188,118 +210,56 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 </table>
 
----
-
-<br>
-
-<h2 align="center">🔥 GitHub Streak & Activity</h2>
+###
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=lucasampaio10&theme=highcontrast&hide_border=true&border_radius=10&background=0D0D0D&ring=B66DFF&fire=B66DFF&currStreakLabel=B66DFF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=lucasampaio10&locale=pt_BR&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&ring=B66DFF&fire=B66DFF&currStreakLabel=B66DFF" height="150" alt="streak graph" />
+
+<img src="https://github-profile-trophy.vercel.app?username=lucasampaio10&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 
 </div>
 
-<br>
+###
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasampaio10/lucasampaio10/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasampaio10/lucasampaio10/output/github-contribution-grid-snake.svg">
+
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasampaio10/lucasampaio10/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+###
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasampaio10&theme=highcontrast" alt="Profile Details" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasampaio10&theme=highcontrast" alt="Repos per Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasampaio10&theme=highcontrast" alt="Most Commit Language" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasampaio10&theme=highcontrast" alt="Stats" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasampaio10&theme=highcontrast&utcOffset=-3" alt="Productive Time" />
-
-</div>
-
----
-
-<br>
-
-<h2 align="center">📈 Contribuições & Atividade</h2>
-
-<div align="center">
-
-<img src="https://github.com/lucasampaio10/lucasrocha0402/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasampaio10&theme=highcontrast&hide_border=true&bg_color=0d0d0d&color=B66DFF&line=B66DFF&point=ffffff&area=true&area_color=B66DFF" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-<br>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucasampaio10&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<br>
-
-<h2 align="center">💬 Vamos Conectar?</h2>
-
-<div align="center">
-
-Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecnologia!
-
-<br><br>
 
 <a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/">
 
-<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF" alt="LinkedIn"/>
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 
 </a>
 
 <a href="mailto:lukasrocha0402@gmail.com">
 
-<img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=B66DFF" alt="Gmail"/>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
 
 </a>
 
 <a href="https://github.com/lucasampaio10">
 
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=B66DFF" alt="GitHub"/>
+<img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
 
 </a>
 
 </div>
 
----
+###
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=lucasampaio10&color=B66DFF&style=flat-square" alt="Profile views" />
-
-<br><br>
-
-<sub>✨ Desenvolvido com paixão e dedicação • Lucas Sampaio • 2024 ✨</sub>
 
 </div>
