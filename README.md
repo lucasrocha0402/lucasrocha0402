@@ -1,18 +1,18 @@
-<p align="center">
+<div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,100:1a1a1a&text=Lucas%20Sampaio&fontColor=B66DFF&fontSize=55&fontAlignY=38&desc=Full%20Stack%20•%20Mobile%20•%20QA%20Automation&descAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090909,100:1a1a1a&text=Lucas%20Sampaio&fontColor=B66DFF&fontSize=55&fontAlignY=38&desc=Full%20Stack%20•%20Mobile%20•%20QA%20Automation&descAlignY=60&animation=fadeIn" />
 
-</p>
+</div>
 
 <h1 align="center">✨ Desenvolvedor Premium • Identidade Exclusiva ✨</h1>
 
-<p align="center">
+<div align="center">
 
-  Full Stack & Mobile Developer criando soluções modernas, rápidas e escaláveis.<br>
+Full Stack & Mobile Developer criando soluções modernas, rápidas e escaláveis.
 
-  Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automação de testes.
+Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automação de testes.
 
-</p>
+</div>
 
 ---
 
@@ -20,17 +20,19 @@
 
 <h2 align="center">📊 GitHub Metrics — Análise Completa</h2>
 
-<p align="center">
+<div align="center">
 
-  <img src="https://github.com/lucasrocha0402/lucasrocha0402/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+<img src="https://github.com/lucasrocha0402/lucasrocha0402/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&theme=highcontrast&hide_border=true&layout=donut&langs_count=10&card_width=700" alt="Top Languages" />
+<div align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&theme=highcontrast&hide_border=true&layout=donut&langs_count=10&card_width=700" alt="Top Languages" />
+
+</div>
 
 ---
 
@@ -38,71 +40,53 @@
 
 <h2 align="center">🌑 Tech Stack — Premium Black Edition</h2>
 
-<p align="center"><strong>Linguagens & Frameworks</strong></p>
+<div align="center">
 
-<p align="center">
+<strong>Linguagens & Frameworks</strong>
 
-  <!-- skillicons -->
+<br><br>
 
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart&theme=light" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,react,nodejs,python&theme=light" />
 
-  <!-- Ícones com fundo branco -->
+</div>
 
-  <img height="48" width="48" 
+<br>
 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+<div align="center">
 
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
+<strong>Banco de Dados & Backend</strong>
 
-  <img height="48" width="48" 
+<br><br>
 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&theme=light" />
 
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
+</div>
 
-  <img height="48" width="48" 
+<br>
 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+<div align="center">
 
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
+<strong>QA & Testes Automatizados</strong>
 
-</p>
+<br><br>
 
-<p align="center"><strong>Banco de Dados & Backend</strong></p>
+<img src="https://skillicons.dev/icons?i=selenium&theme=light" />
 
-<p align="center">
+<img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="Pytest" />
 
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&theme=light" />
+</div>
 
-</p>
+<br>
 
-<p align="center"><strong>QA & Testes Automatizados</strong></p>
+<div align="center">
 
-<p align="center">
+<strong>DevOps & Ferramentas</strong>
 
-  <img height="48" width="48"
+<br><br>
 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" />
 
-       style="background:white;border-radius:10px;padding:6px;" />
-
-  <!-- Ícone corrigido do Pytest -->
-
-  <img height="48" width="48"
-
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg"
-
-       style="background:white;border-radius:10px;padding:6px;margin-left:6px;" />
-
-</p>
-
-<p align="center"><strong>DevOps & Ferramentas</strong></p>
-
-<p align="center">
-
-  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" />
-
-</p>
+</div>
 
 ---
 
@@ -110,71 +94,71 @@
 
 <h2 align="center">📂 Projetos em Destaque — Cards Premium</h2>
 
-<table align="center" style="width:100%; max-width:900px;">
+<table align="center">
 
-  <tr>
+<tr>
 
-    <td align="center" width="50%" style="padding:20px;">
+<td align="center" width="50%">
 
-      <h3>📱 LifePlus</h3>
+<h3>📱 LifePlus</h3>
 
-      <p>Flutter • Supabase • Saúde • Dashboards</p>
+Flutter • Supabase • Saúde • Dashboards
 
-      <a href="https://github.com/lucasrocha0402/life_pluss">
+<a href="https://github.com/lucasrocha0402/life_pluss">
 
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=life_pluss&theme=highcontrast&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=life_pluss&theme=highcontrast&hide_border=true" />
 
-      </a>
+</a>
 
-    </td>
+</td>
 
-    <td align="center" width="50%" style="padding:20px;">
+<td align="center" width="50%">
 
-      <h3>🌐 DevHub Frontend</h3>
+<h3>🌐 DevHub Frontend</h3>
 
-      <p>React • UI Moderna • Autenticação</p>
+React • UI Moderna • Autenticação
 
-      <a href="https://github.com/lucasrocha0402/devhubfront">
+<a href="https://github.com/lucasrocha0402/devhubfront">
 
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubfront&theme=highcontrast&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubfront&theme=highcontrast&hide_border=true" />
 
-      </a>
+</a>
 
-    </td>
+</td>
 
-  </tr>
+</tr>
 
-  <tr>
+<tr>
 
-    <td align="center" width="50%" style="padding:20px;">
+<td align="center" width="50%">
 
-      <h3>⚙️ DevHub Backend</h3>
+<h3>⚙️ DevHub Backend</h3>
 
-      <p>Node.js • JWT • Roles • Docker</p>
+Node.js • JWT • Roles • Docker
 
-      <a href="https://github.com/lucasrocha0402/devhubback">
+<a href="https://github.com/lucasrocha0402/devhubback">
 
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubback&theme=highcontrast&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=devhubback&theme=highcontrast&hide_border=true" />
 
-      </a>
+</a>
 
-    </td>
+</td>
 
-    <td align="center" width="50%" style="padding:20px;">
+<td align="center" width="50%">
 
-      <h3>📊 DashInvest (WIP)</h3>
+<h3>📊 DashInvest (WIP)</h3>
 
-      <p>Flutter • Finanças • Gráficos</p>
+Flutter • Finanças • Gráficos
 
-      <a href="https://github.com/lucasrocha0402/dashinvest">
+<a href="https://github.com/lucasrocha0402/dashinvest">
 
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=dashinvest&theme=highcontrast&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasrocha0402&repo=dashinvest&theme=highcontrast&hide_border=true" />
 
-      </a>
+</a>
 
-    </td>
+</td>
 
-  </tr>
+</tr>
 
 </table>
 
@@ -184,19 +168,13 @@
 
 <h2 align="center">📊 GitHub Stats — Neon Black</h2>
 
-<p align="center">
+<div align="center">
 
-  <img height="170em" 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true"/>
 
-       src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true&langs_count=8"/>
 
-  
-
-  <img height="170em" 
-
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true&langs_count=8"/>
-
-</p>
+</div>
 
 ---
 
@@ -204,33 +182,39 @@
 
 <h2 align="center">🔥 GitHub Streak & Activity</h2>
 
-<p align="center">
+<div align="center">
 
-  <img src="https://github-readme-streak-stats.demolab.com/?user=lucasrocha0402&theme=highcontrast&hide_border=true&border_radius=10&background=0D0D0D&ring=B66DFF&fire=B66DFF&currStreakLabel=B66DFF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=lucasrocha0402&theme=highcontrast&hide_border=true&border_radius=10&background=0D0D0D&ring=B66DFF&fire=B66DFF&currStreakLabel=B66DFF" alt="GitHub Streak" />
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasrocha0402&theme=highcontrast" alt="Profile Details" />
+<div align="center">
 
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasrocha0402&theme=highcontrast" alt="Profile Details" />
 
-<p align="center">
+</div>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasrocha0402&theme=highcontrast" alt="Repos per Language" />
+<br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasrocha0402&theme=highcontrast" alt="Most Commit Language" />
+<div align="center">
 
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasrocha0402&theme=highcontrast" alt="Repos per Language" />
 
-<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasrocha0402&theme=highcontrast" alt="Most Commit Language" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasrocha0402&theme=highcontrast" alt="Stats" />
+</div>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasrocha0402&theme=highcontrast&utcOffset=-3" alt="Productive Time" />
+<br>
 
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasrocha0402&theme=highcontrast" alt="Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasrocha0402&theme=highcontrast&utcOffset=-3" alt="Productive Time" />
+
+</div>
 
 ---
 
@@ -238,17 +222,19 @@
 
 <h2 align="center">📈 Contribuições & Atividade</h2>
 
-<p align="center">
+<div align="center">
 
-  <img src="https://github.com/lucasrocha0402/lucasrocha0402/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/lucasrocha0402/lucasrocha0402/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasrocha0402&theme=highcontrast&hide_border=true&bg_color=0d0d0d&color=B66DFF&line=B66DFF&point=ffffff&area=true&area_color=B66DFF" alt="GitHub Activity Graph" />
+<div align="center">
 
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasrocha0402&theme=highcontrast&hide_border=true&bg_color=0d0d0d&color=B66DFF&line=B66DFF&point=ffffff&area=true&area_color=B66DFF" alt="GitHub Activity Graph" />
+
+</div>
 
 ---
 
@@ -256,12 +242,11 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
+<div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasrocha0402&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=lucasrocha0402&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies" />
 
-</p>
-
+</div>
 
 ---
 
@@ -269,26 +254,26 @@
 
 <h2 align="center">📞 Contatos</h2>
 
-<p align="center">
+<div align="center">
 
-  <a href="mailto:lukasrocha0402@gmail.com">
+<a href="mailto:lukasrocha0402@gmail.com">
 
-    <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=B66DFF"/>
+<img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=B66DFF" alt="Gmail"/>
 
-  </a>
+</a>
 
-  <a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/">
+<a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/">
 
-    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF" alt="LinkedIn"/>
 
-  </a>
+</a>
 
-</p>
+</div>
 
 ---
 
-<p align="center" style="font-size:12px; color:#444;">
+<div align="center">
 
-  Assinatura exclusiva • Criada especialmente para você • LS.
+<sub>Assinatura exclusiva • Criada especialmente para você • LS.</sub>
 
-</p>
+</div>
