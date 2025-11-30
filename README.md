@@ -177,6 +177,7 @@
   <a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/">
 
     <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF"/>
+
   </a>
 
 </p>
