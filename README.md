@@ -22,7 +22,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github.com/lucasrocha0402/lucasrocha0402/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+<img src="https://raw.githubusercontent.com/lucasrocha0402/lucasrocha0402/output/github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
@@ -30,7 +30,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&theme=highcontrast&hide_border=true&layout=donut&langs_count=10&card_width=700" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&theme=highcontrast&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
 
 </div>
 
