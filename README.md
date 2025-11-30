@@ -12,6 +12,26 @@ Full Stack & Mobile Developer criando soluções modernas, rápidas e escalávei
 
 Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automação de testes.
 
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=B66DFF)](https://github.com/lucasrocha0402)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF)](https://www.linkedin.com/in/lucas-rocha-805a7422a/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=B66DFF)](mailto:lukasrocha0402@gmail.com)
+
+</div>
+
+---
+
+<br>
+
+<h2 align="center">⚡ Estatísticas Rápidas</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages" />
+
 </div>
 
 ---
@@ -22,9 +42,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasrocha0402&theme=highcontrast" alt="Repos per Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasrocha0402&theme=highcontrast" alt="Most Commit Language" />
+<img src="https://raw.githubusercontent.com/lucasrocha0402/lucasrocha0402/main/github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
@@ -36,11 +54,11 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<strong>Linguagens & Frameworks</strong>
+<strong>💻 Linguagens & Frameworks</strong>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,react,nodejs,python&theme=light" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,flutter,dart,react,nodejs,python,typescript,javascript&theme=light" />
 
 </div>
 
@@ -48,11 +66,11 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<strong>Banco de Dados & Backend</strong>
+<strong>🗄️ Banco de Dados & Backend</strong>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase&theme=light" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,mongodb&theme=light" />
 
 </div>
 
@@ -60,7 +78,7 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<strong>QA & Testes Automatizados</strong>
+<strong>🧪 QA & Testes Automatizados</strong>
 
 <br><br>
 
@@ -74,11 +92,11 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<strong>DevOps & Ferramentas</strong>
+<strong>🚀 DevOps & Ferramentas</strong>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,aws&theme=light" />
 
 </div>
 
@@ -96,7 +114,9 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <h3>📱 LifePlus</h3>
 
-Flutter • Supabase • Saúde • Dashboards
+<p><strong>Flutter • Supabase • Saúde • Dashboards</strong></p>
+
+<p>Aplicativo mobile para gestão de saúde e bem-estar com dashboards interativos</p>
 
 <a href="https://github.com/lucasrocha0402/life_pluss">
 
@@ -110,7 +130,9 @@ Flutter • Supabase • Saúde • Dashboards
 
 <h3>🌐 DevHub Frontend</h3>
 
-React • UI Moderna • Autenticação
+<p><strong>React • UI Moderna • Autenticação</strong></p>
+
+<p>Plataforma web moderna com sistema de autenticação completo</p>
 
 <a href="https://github.com/lucasrocha0402/devhubfront">
 
@@ -128,7 +150,9 @@ React • UI Moderna • Autenticação
 
 <h3>⚙️ DevHub Backend</h3>
 
-Node.js • JWT • Roles • Docker
+<p><strong>Node.js • JWT • Roles • Docker</strong></p>
+
+<p>API RESTful robusta com autenticação JWT e sistema de permissões</p>
 
 <a href="https://github.com/lucasrocha0402/devhubback">
 
@@ -142,7 +166,9 @@ Node.js • JWT • Roles • Docker
 
 <h3>📊 DashInvest (WIP)</h3>
 
-Flutter • Finanças • Gráficos
+<p><strong>Flutter • Finanças • Gráficos</strong></p>
+
+<p>Aplicativo para análise e gestão de investimentos com visualizações avançadas</p>
 
 <a href="https://github.com/lucasrocha0402/dashinvest">
 
@@ -155,20 +181,6 @@ Flutter • Finanças • Gráficos
 </tr>
 
 </table>
-
----
-
-<br>
-
-<h2 align="center">📊 GitHub Stats — Neon Black</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&layout=compact&theme=highcontrast&hide_border=true&langs_count=8"/>
-
-</div>
 
 ---
 
@@ -246,9 +258,19 @@ Flutter • Finanças • Gráficos
 
 <br>
 
-<h2 align="center">📞 Contatos</h2>
+<h2 align="center">💬 Vamos Conectar?</h2>
 
 <div align="center">
+
+Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecnologia!
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF" alt="LinkedIn"/>
+
+</a>
 
 <a href="mailto:lukasrocha0402@gmail.com">
 
@@ -256,9 +278,9 @@ Flutter • Finanças • Gráficos
 
 </a>
 
-<a href="https://www.linkedin.com/in/lucas-rocha-805a7422a/">
+<a href="https://github.com/lucasrocha0402">
 
-<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=B66DFF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=B66DFF" alt="GitHub"/>
 
 </a>
 
@@ -268,6 +290,10 @@ Flutter • Finanças • Gráficos
 
 <div align="center">
 
-<sub>Assinatura exclusiva • Criada especialmente para você • LS.</sub>
+<img src="https://komarev.com/ghpvc/?username=lucasrocha0402&color=B66DFF&style=flat-square" alt="Profile views" />
+
+<br><br>
+
+<sub>✨ Desenvolvido com paixão e dedicação • Lucas Sampaio • 2024 ✨</sub>
 
 </div>
