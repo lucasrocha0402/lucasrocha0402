@@ -22,15 +22,9 @@ Experiência com C#, .NET, React, Flutter, Node.js, Python, Supabase e automaç�
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasrocha0402&show_icons=true&theme=highcontrast&hide_border=true&icon_color=B66DFF&include_all_commits=true&count_private=true" alt="GitHub Metrics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasrocha0402&theme=highcontrast" alt="Repos per Language" />
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha0402&theme=highcontrast&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasrocha0402&theme=highcontrast" alt="Most Commit Language" />
 
 </div>
 
