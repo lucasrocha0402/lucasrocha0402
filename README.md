@@ -33,6 +33,7 @@ I'm passionate about technology and creating modern, scalable solutions. Here yo
 
 <div align="center">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasampaio10&commits_year=2025)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasampaio10&show_icons=true&theme=radical)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasampaio10&theme=highcontrast" alt="Most Commit Language" />
