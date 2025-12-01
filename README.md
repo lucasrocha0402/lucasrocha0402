@@ -29,19 +29,6 @@ I'm passionate about technology and creating modern, scalable solutions. Here yo
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasampaio10&commits_year=2025)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasampaio10&show_icons=true&theme=radical)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasampaio10&theme=highcontrast" alt="Most Commit Language" />
-
-</div>
-
----
-
 ### 🔥 GitHub Streak
 
 <div align="center">
@@ -52,17 +39,6 @@ I'm passionate about technology and creating modern, scalable solutions. Here yo
 
 ---
 
-### 🟩 Latest Commit Energy
-
-_Keep building. One commit at a time._ 🟩
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasampaio10&theme=highcontrast&hide_border=true&bg_color=0d0d0d&color=B66DFF&line=B66DFF&point=ffffff&area=true&area_color=B66DFF" alt="GitHub Activity Graph" />
-
-</div>
-
----
 
 ### 📞 Let's Connect
 
